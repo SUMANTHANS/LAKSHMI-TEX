@@ -1,0 +1,98 @@
+.bag-img{
+    height: 100vh;
+    width:100vw;
+    object-fit: cover;
+    filter:brightness(0.6);
+    position: absolute;
+    top: 0;
+    left:0;
+    z-index: -1;
+}
+.navbar-brand{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+    color: gold;
+
+}
+.nav-item{
+
+}
+
+h1{
+    margin-top: 250px;
+    margin-left: 50px;
+    font-family: "Abril Fatface", serif;
+    font-weight: 400;
+    font-style: normal;
+        color: bisque;
+      }
+      
+
+h5{
+    margin-top: 20px;
+    margin-left: 60px;
+    color: wheat;    
+    font-family: "Cormorant", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+    
+    
+}
+
+
+
+.bag-ig{
+    height: 100vh;
+    width:100vw;
+    object-fit: cover;
+    filter:brightness(0.6);
+    position: absolute;
+    top: 0;
+    left:0;
+    z-index: -1;
+}
+
+.about-1{
+    font-family: 'Times New Roman', Times, serif;
+    color: wheat;
+    margin-left: 300px;
+    margin-top: 300px;
+
+
+}
+
+.pg{
+    color:white;
+}
+
+
+.contact{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.asd {
+    background: url('wp4180128.jpg') no-repeat center center/cover;
+}
+.card img {
+    height: 250px;
+    object-fit: cover;
+}
+.container {
+    background: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+}
